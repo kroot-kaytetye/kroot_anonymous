@@ -1,0 +1,5 @@
+[package]
+name = "kroot"
+version = "0.9.1"
+authors = ["kroot_kaytetye <62926253+kroot-kaytetye@users.noreply.github.com>"]
+edition = "2018"
